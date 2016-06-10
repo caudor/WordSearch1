@@ -27,7 +27,7 @@ namespace WordSearch1
             Console.WriteLine(myPuzzle.PrintString);
             myPuzzle.ShowGrid();
             myPuzzle.SaveFormattedGrid();
-            Console.WriteLine("The Formatted Grid: ");
+            //Console.WriteLine("The Formatted Grid: ");
             //For printing to paper
             //Console.Write(myPuzzle.FormattedPrintString);
             if (result)
